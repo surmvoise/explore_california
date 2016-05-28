@@ -1,5 +1,5 @@
-#tmpfl1.txt
-#tmpfl2.txt
+tmpfl1.txt
+tmpfl2.txt
 
 log/*.log
 log/*.log.[0-9]
