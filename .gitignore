@@ -1,10 +1,8 @@
-tmpfl.txt
-.DS_Store
-*.zip
-*.gz
+#tmpfl1.txt
+#tmpfl2.txt
+
 log/*.log
 log/*.log.[0-9]
 assets/photoshop/
 assets/videos/
 !asstes/videos/tour_*.mp4
-
